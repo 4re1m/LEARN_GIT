@@ -1,1 +1,1 @@
-new message one
+I inserted new text in newone file
